@@ -6,4 +6,4 @@ The Khleb-Sol chain supermarket introduces a computer vision system for processi
 
 | Project name | Description | Used Libraries |
 | :--------------------- | :--------------------- | :--------------------- |
-| [Determining the age of buyers](computer-games) | Build a model that will determine the approximate age of a person from a photo | *pandas, tensorflow.keras, numpy, matplotlib, PIL* |
+| [Determining the age of buyers](https://github.com/limenbah/computer-vision/tree/main/computer-vision) | Build a model that will determine the approximate age of a person from a photo | *pandas, tensorflow.keras, numpy, matplotlib, PIL* |
