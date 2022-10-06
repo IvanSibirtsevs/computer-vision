@@ -1,9 +1,9 @@
-# Определение возраста покупателей
+# Determining the age of buyers
 
-Сетевой супермаркет «Хлеб-Соль» внедряет систему компьютерного зрения для обработки фотографий покупателей. Фотофиксация в прикассовой зоне поможет определять возраст клиентов.
+The Khleb-Sol chain supermarket introduces a computer vision system for processing customer photos. Photo fixation in the checkout area will help determine the age of customers.
 
-## Описания проекта
+## Project descriptions
 
-| Название проекта | Описание | Используемые библиотеки | 
-| :---------------------- | :---------------------- | :---------------------- |
-| [Определение возраста покупателей](computer-games) | Построить модель, которая по фотографии определит приблизительный возраст человека | *pandas, tensorflow.keras, numpy, matplotlib, PIL* |
+| Project name | Description | Used Libraries |
+| :--------------------- | :--------------------- | :--------------------- |
+| [Determining the age of buyers](computer-games) | Build a model that will determine the approximate age of a person from a photo | *pandas, tensorflow.keras, numpy, matplotlib, PIL* |
